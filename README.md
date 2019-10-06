@@ -2,12 +2,14 @@
 A demonstration of Spring Boot REST API
 
 Files created -------
+
 1.Spring initialiser 
 2.Controller
 3.DAO
 4.Model
 
 Methods to import project -------
+
 1. Import an existing maven project
 2. Download all the dependencies i.e. maven dependencies
 3. Run application with Spring Boot App
